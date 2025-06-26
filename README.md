@@ -11,7 +11,10 @@
 * Импортировано решение в NettleBox
 * Реализованы сценарии перехода между зонами по кнопкам
 * Сгенерировано звуковое сопровождение с описание зон
-  
+
+## Пример работы
+![Видео работы](https://github.com/Digital-Department-Vavilov-University/seed-cleaning-complex/blob/main/video.gif)
+
 ## Стек технологий
 * Unity
 * NettleBox
